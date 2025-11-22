@@ -1,0 +1,16 @@
+# ZX-Calculus Demo Requirements
+# Python version: 3.8+
+
+# Core ZX-Calculus library
+pyzx>=0.7.3
+
+# Visualization and notebooks
+matplotlib>=3.5.0
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Optional: For quantum circuit integration
+qiskit>=0.39.0
+
+# Utilities
+numpy>=1.21.0
