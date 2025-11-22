@@ -12,6 +12,8 @@
 5. [From Circuits to Graphs](#from-circuits-to-graphs)
 6. [Key Applications](#key-applications)
 7. [Mathematical Foundations](#mathematical-foundations)
+7. [Relationship Between the ZX Calculus and Tensor Networks](#relationship-between-the-zx-calculus-and-tensor-networks
+)
 8. [Advanced Topics](#advanced-topics)
 
 ---
@@ -460,7 +462,7 @@ ZX has been used to:
 - Complementary to ZX
 
 ---
-## Relationship Between ZX Calculus & Tensor Networks
+## Relationship Between the ZX Calculus and Tensor Networks
 
 ZX Calculus & Tensor Networks are **intimately related**. In fact, **ZX Calculus is a specialized dialect of Tensor Networks.**
 
