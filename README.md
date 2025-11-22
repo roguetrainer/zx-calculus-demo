@@ -123,7 +123,7 @@ ZX-calculus helps researchers design new algorithms by revealing hidden structur
 ## Learning Resources
 
 ### Included Documentation
-- `INTRODUCTION-TO-ZX-CALCULUS.md` - Comprehensive theory guide
+- [`INTRODUCTION-TO-ZX-CALCULUS.md`](INTRODUCTION-TO-ZX-CALCULUS.md) - Comprehensive theory guide
 
 ### External Resources
 - [PyZX Documentation](https://pyzx.readthedocs.io/)
