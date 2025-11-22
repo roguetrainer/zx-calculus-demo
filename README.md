@@ -2,9 +2,13 @@
 
 A comprehensive guide to quantum circuit optimization using the ZX-calculus, featuring interactive examples with PyZX.
 
+![ZX-calculus](./ZX-calculus.png)
+
 ## Overview
 
 The ZX-calculus is a powerful graphical language for quantum reasoning that represents quantum circuits as flexible graphs of "spiders" (nodes) and wires. Unlike traditional circuit notation based on matrices, ZX-calculus allows for topological simplifications that are often impossible to see in standard representations.
+
+See [Introduction to ZX Calculus](./INTRODUCTION-TO-ZX-CALCULUS.md)
 
 This package demonstrates:
 
