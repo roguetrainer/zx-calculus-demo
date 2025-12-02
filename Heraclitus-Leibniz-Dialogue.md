@@ -1,7 +1,11 @@
 ## The Alehouse of Ideas: A Meeting Across Millennia – With a Quantum Soundtrack
 
+
+
 **Setting:** A dimly lit, bustling alehouse. The year is... fluid. On a small stage in the corner, **Bob Coecke**, strumming a lute whose strings shimmer with faint probability fields, finishes a hauntingly beautiful, mathematically intricate piece. Patrons murmur their appreciation. At a large table, Heraclitus, rugged, intense, swirling his cheap wine, eyes darting, faces Gottfried Wilhelm Leibniz, impeccably dressed and radiating intellectual energy, sketching furiously on a parchment with a quill. A shimmering, ethereal blackboard floats between them, showing strange interconnected circles of red and green.
 
+---
+![Alehouse](Alehouse-ZX-x3.png)
 ---
 
 **Leibniz:** (Taps his quill impatiently) My dear Heraclitus, this "ZX-Calculus" you speak of... fascinating, if somewhat... un-rigorous in its current presentation. You assert that these "spiders" as you call them, these green and red nodes, are the fundamental monads of quantum interaction. But where is the formal system? The *characteristica universalis* that grants them true calculability?

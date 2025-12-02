@@ -4,6 +4,8 @@ The ZX-calculus, a graphical language for quantum computation, would have been i
 
 The connection rests on the fundamental contrast between the **rigid, sequential nature of standard quantum circuits (linear algebra)** and the **flexible, fluid, and equivalent nature of ZX-diagrams (category theory)**.
 
+See also: [Heraclitus-Leibniz-Dialogue.md](Heraclitus-Leibniz-Dialogue.md)
+
 ### 1. Heraclitus: The Principle of Flux and Equivalence
 
 Heraclitus's philosophy of **Universal Flux ($\pi\alpha \nu \tau \alpha \tilde{\rho} \varepsilon \tilde{\iota}$, *panta rhei*)** emphasizes that everything is constantly changing, yet this change is governed by an underlying **Logos** (order or law).
